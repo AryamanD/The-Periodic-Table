@@ -1,0 +1,11 @@
+Each quiz has ten questions. You have to choose your answer from options 1 to 4 and press enter.For each correct answer 5 marks are rewarded.There is no        negative marking.
+
+There are three powermoves to assist you in your quiz:-
+
+5)Eliminator-Choosing 5 and pressing enter eliminates 2 wrong options.There are only two eliminators.
+
+6)Computer answer-Choosing 6 and pressing enter gives you the correct option.   There is only one computer answer
+
+7)Two Chances-Choosing 7 and pressing enter gives you two chances on getting the right answer one after the other.There are only 2 two chances.
+
+Best of luck!!
