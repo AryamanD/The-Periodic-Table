@@ -15,3 +15,5 @@ Instructions for Download
 Using the Program
 - You first have to sign up and then login with your account. Enjoy!
 - If you wish to access the Admin Section the Username:aryaman and Password:123456 should do the job.
+
+Have fun!
